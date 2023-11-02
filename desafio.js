@@ -14,6 +14,6 @@ alert(mensagemDeErro);
 nome = prompt("Qual é o seu nome? ");
 idade = prompt("Qual é a sua idade? ");
 
-if (idade > 18) {
+if (idade >= 18) {
     alert("Pode tirar a habilitação!");
 }
