@@ -1,0 +1,2 @@
+# Sobre
+Repositório contendo os desafios solucionados do curso [Lógica de Programação: Mergulhe em Programação com JavaScript](https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript). Neste repositório você encontrará exercicíos concluídos de lógica de programação feitos por mim durante o curso. Logo, o seu conteúdo é entrada/saída de dados, variáveis, condições, estruturas de repetição, operador ternário, entre outros. 
